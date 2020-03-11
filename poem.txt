@@ -1,6 +1,7 @@
 This is a poem about rainbow
 time : dd/mm/yyyy
 Edited by Developer.
+# comment
 The file is successfully tested.
 
 More lines are added.
